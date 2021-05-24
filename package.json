@@ -39,4 +39,5 @@
 			"last 1 safari version"
 		]
 	}
+  "engines": {"npm":"7.9.0","node": "14.17.0"}
 }
