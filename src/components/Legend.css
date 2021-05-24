@@ -1,17 +1,13 @@
 tr {
 	display: block;
 	float: left;
-
 }
 #legend {
 	border: 0.1rem solid black;
 }
-
 th,
 td {
-	display: block;
-		
-	
+	display: block;	
 }
 #title {
 	border: 0.1rem solid black;
@@ -33,6 +29,5 @@ td {
 }
 #table {
 	padding: 5% 1%;
-
 	padding-right: 25%;
 }
