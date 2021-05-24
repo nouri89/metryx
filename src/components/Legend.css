@@ -13,7 +13,7 @@ td {
 	border: 0.1rem solid black;
 	border-bottom: none;
 	font-weight: bold;
-	padding: 4% 5% 3% 4%;
+	padding: 4% 2% 3% 4%;
 }
 
 #dataSet {
@@ -29,5 +29,5 @@ td {
 }
 #table {
 	padding: 5% 1%;
-	padding-right: 25%;
+	padding-right: 10%;
 }
