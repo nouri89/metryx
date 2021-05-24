@@ -1,11 +1,13 @@
 import "./App.css";
-import "./components/BarChart";
-import BarChart from "./components/BarChart";
+import TableFrame from "./components/TableFrame"
+import ChartFrame from "./components/ChartFram";
+
 
 function App() {
 	return (
-		<div className="App">
-			<BarChart />
+		<div className="App" style={{ display: "flex",justifyContent:"center" }}>
+			<ChartFrame />
+			<TableFrame/>
 		</div>
 	);
 }

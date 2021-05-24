@@ -1,0 +1,38 @@
+tr {
+	display: block;
+	float: left;
+
+}
+#legend {
+	border: 0.1rem solid black;
+}
+
+th,
+td {
+	display: block;
+		
+	
+}
+#title {
+	border: 0.1rem solid black;
+	border-bottom: none;
+	font-weight: bold;
+	padding: 4% 5% 3% 4%;
+}
+
+#dataSet {
+	visibility: hidden;
+}
+.fHeader {
+	padding-bottom: 0.9rem;
+	font-size: 0.9rem;
+	font-weight: bold;
+}
+#data {
+	font-weight: bold;
+}
+#table {
+	padding: 5% 1%;
+
+	padding-right: 25%;
+}

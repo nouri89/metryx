@@ -1,0 +1,30 @@
+/*#charTitle{ 
+  
+    width: 1000%;
+    border: 0.1rem solid black;
+    border-bottom: none;
+    background-color: aqua;
+}
+*/
+#chart {
+
+   	border: 0.15rem solid black;
+
+	
+    
+}
+#charTitle {
+	
+  
+	
+   	border: 0.15rem solid black;
+        border-bottom: none;
+        padding: 2% 90% 2% 2%;
+        font-weight: bold;
+       
+}
+#cont{
+   margin: 5% 1% 5% 10%;
+  
+    
+}
