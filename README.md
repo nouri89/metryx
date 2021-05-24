@@ -8,7 +8,7 @@ The application was developed using React framework along with react-bootstarp f
 
 ## Running the application 
 
-After cloning the repo you will have to npm install the following dependencies : "chart.js" ,"react-bootstrap", "react-chartjs-2", "react-table". when installed you can start the react app with the command "npm start".
+After cloning the repo you will have to npm install the following dependencies : "react-bootstrap", "react-chartjs-2", "react-table". when installed you can start the react app with the command "npm start".
  
 ### Further work if more time availbe 
 Further work if more time available
