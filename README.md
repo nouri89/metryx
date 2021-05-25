@@ -14,6 +14,7 @@ After cloning the repo you will have to npm install the following dependencies :
 Further work if more time available
 The application could have a set of buttons to make it interactive by prompting the user to enter the data in a form , and represent it by chart.
 
+### This app is deployed at: https://abdennour-metryx.herokuapp.com/
 
 ####  Thank you #####
 
