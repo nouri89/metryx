@@ -3,11 +3,11 @@ tr {
 	float: left;
 }
 #legend {
-	border: 0.1rem solid black;
+	border: 0.15rem solid black;
 }
 th,
 td {
-	display: block;	
+	display: block;
 }
 #title {
 	border: 0.1rem solid black;
