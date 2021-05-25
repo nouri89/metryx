@@ -31,7 +31,7 @@ const Chart = () => {
 						],
 					}}
 					height={400}
-					width={500}
+					width={590}
 					options={{ maintainAspectRatio: false }}
 				/>
 			</Row>

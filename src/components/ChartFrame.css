@@ -7,24 +7,14 @@
 }
 */
 #chart {
-
-   	border: 0.15rem solid black;
-
-	
-    
+	border: 0.15rem solid black;
 }
 #charTitle {
-	
-  
-	
-   	border: 0.15rem solid black;
-        border-bottom: none;
-        padding: 2% 90% 2% 2%;
-        font-weight: bold;
-       
+	border: 0.15rem solid black;
+	border-bottom: none;
+	padding: 2% 90% 2% 2%;
+	font-weight: bolder;
 }
-#cont{
-   margin: 5% 1% 5% 10%;
-  
-    
+#cont {
+	margin: 5% 1% 5% 10%;
 }
