@@ -30,8 +30,8 @@ const Chart = () => {
 							},
 						],
 					}}
-					height={500}
-					width={600}
+					height={400}
+					width={500}
 					options={{ maintainAspectRatio: false }}
 				/>
 			</Row>
@@ -40,4 +40,3 @@ const Chart = () => {
 };
 
 export default Chart;
-

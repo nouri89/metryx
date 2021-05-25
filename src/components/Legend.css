@@ -10,10 +10,10 @@ td {
 	display: block;
 }
 #title {
-	border: 0.1rem solid black;
+	border: 0.15rem solid black;
 	border-bottom: none;
 	font-weight: bold;
-	padding: 4% 2% 3% 4%;
+	padding: 3% 2% 2% 4%;
 }
 
 #dataSet {
@@ -28,6 +28,6 @@ td {
 	font-weight: bold;
 }
 #table {
-	padding: 5% 1%;
-	padding-right: 10%;
+	padding: 5% 1% 7% 1%;
+	padding-right: 15%;
 }
